@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "butt_low_lambert1_AlbedoTransparency",
+  "identifier": "texture:14291-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "d514ac668ea6e28a90b26ddf3efba4ce",
+  "assetLocator": "textures/butt_low_lambert1_AlbedoTransparency.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "d514ac668ea6e28a90b26ddf3efba4ce",
+      "colorCount": 293142,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 14.835253408220726,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

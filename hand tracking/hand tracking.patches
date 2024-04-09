@@ -1,0 +1,61 @@
+{
+  "id": "34768797dc3006fb48bbb721408514c6afdd",
+  "revision": "3e053640f28c84c8faea180a5e3a271c1",
+  "version": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 180
+  },
+  "creatorIdentifier": "com.facebook.arstudio.skylight",
+  "creatorPlatform": "windows",
+  "creatorFileVersion": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 180
+  },
+  "visual_programming": {
+    "graphs": [
+      {
+        "modelName": "patch_graph",
+        "identifier": "patch_graph:90-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+        "subpatches": [
+          "producer_patch_model:717467-32fc18b1-3fe8-419a-8ba8-ae041093d0f5",
+          "producer_patch_model:718335-32fc18b1-3fe8-419a-8ba8-ae041093d0f5",
+          "producer_patch_model:718337-32fc18b1-3fe8-419a-8ba8-ae041093d0f5"
+        ]
+      }
+    ],
+    "patches": [
+      {
+        "modelName": "producer_patch_model",
+        "name": "metarig|!",
+        "identifier": "producer_patch_model:717467-32fc18b1-3fe8-419a-8ba8-ae041093d0f5",
+        "object": "animation_model:621-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+        "position": [
+          332,
+          236
+        ]
+      },
+      {
+        "modelName": "producer_patch_model",
+        "name": "metarig|2",
+        "identifier": "producer_patch_model:718335-32fc18b1-3fe8-419a-8ba8-ae041093d0f5",
+        "object": "animation_model:731-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+        "position": [
+          404,
+          236
+        ]
+      },
+      {
+        "modelName": "producer_patch_model",
+        "name": "metarig|3",
+        "identifier": "producer_patch_model:718337-32fc18b1-3fe8-419a-8ba8-ae041093d0f5",
+        "object": "animation_model:841-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+        "position": [
+          476,
+          236
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "butterfly_01",
+  "identifier": "master3_d_object_model:8799-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+  "sourceIdentifier": "asset_collection_model:8803-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.6834011077880859,
+  "globalScaleFactor": 0.4154115837156596,
+  "height": 3.7265465259552,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 4.814502239227295,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "Butterfly_tri",
+      "identifier": "sceneObject:8765-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "wings",
+          "identifier": "sceneObject:8767-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "mesh",
+              "name": "wing_02",
+              "identifier": "mesh:8769-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "nodeName": "wing_02",
+              "numberOfFaces": 292,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "prefabIdentifier": "gltf:8773-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+              "receiveShadow": false,
+              "renderPass": "main_scene",
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "useEmbeddedBlendshapes": false,
+              "children": [
+                {
+                  "modelName": "surfaces",
+                  "identifier": "surfaces:8771-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+                  "children": [
+                    {
+                      "modelName": "surface",
+                      "name": "surface0",
+                      "identifier": "surface:8776-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+                      "isMaterialIdentifierEnabled": true,
+                      "materialIdentifier": "dependent_material_model:8761-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+                      "surfaceGroupIdentifier": "8777-e053640f-28c8-4c8f-aea1-80a5e3a271c1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "mesh",
+              "name": "wing_01",
+              "identifier": "mesh:8779-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "nodeName": "wing_01",
+              "numberOfFaces": 292,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "prefabIdentifier": "gltf:8783-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+              "receiveShadow": false,
+              "renderPass": "main_scene",
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "useEmbeddedBlendshapes": false,
+              "children": [
+                {
+                  "modelName": "surfaces",
+                  "identifier": "surfaces:8781-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+                  "children": [
+                    {
+                      "modelName": "surface",
+                      "name": "surface0",
+                      "identifier": "surface:8786-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+                      "isMaterialIdentifierEnabled": true,
+                      "materialIdentifier": "dependent_material_model:8761-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+                      "surfaceGroupIdentifier": "8787-e053640f-28c8-4c8f-aea1-80a5e3a271c1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Butterfly_tri_torso_leg_01",
+          "identifier": "mesh:8789-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "nodeName": "Butterfly_tri_torso_leg_01",
+          "numberOfFaces": 1872,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:8793-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:8791-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:8796-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:8761-e053640f-28c8-4c8f-aea1-80a5e3a271c1",
+                  "surfaceGroupIdentifier": "8797-e053640f-28c8-4c8f-aea1-80a5e3a271c1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
